@@ -1,0 +1,3 @@
+D:/Dev/Video/cmake-build-debug/CMakeFiles/Video.dir
+D:/Dev/Video/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dev/Video/cmake-build-debug/CMakeFiles/rebuild_cache.dir
